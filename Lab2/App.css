@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.button1 {
+    position: relative;
+    left: 40px;
+}
+
+.button2 {
+    position: relative;
+    left: 50px;
+}
+
+.btn3 {
+    position: relative;
+    left: 70px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.user-input {
+    margin: 10px;
+}

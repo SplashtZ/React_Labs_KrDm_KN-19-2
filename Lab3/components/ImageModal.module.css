@@ -1,0 +1,12 @@
+.backdrop {
+    position: relative;
+    width: 100%;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.actions {
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
